@@ -1,0 +1,15 @@
+current directory: /Users/kosukekimura/Documents/study/DIC/everydayrails-rspec-2017/vendor/bundle/ruby/2.6.0/gems/bindex-0.5.0/ext/bindex
+/Users/kosukekimura/.rbenv/versions/2.6.2/bin/ruby -I /Users/kosukekimura/.rbenv/versions/2.6.2/lib/ruby/2.6.0 -r ./siteconf20190330-46957-18hw3ug.rb extconf.rb
+creating Makefile
+
+current directory: /Users/kosukekimura/Documents/study/DIC/everydayrails-rspec-2017/vendor/bundle/ruby/2.6.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" clean
+
+current directory: /Users/kosukekimura/Documents/study/DIC/everydayrails-rspec-2017/vendor/bundle/ruby/2.6.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR="
+compiling cruby.c
+linking shared-object bindex/cruby.bundle
+
+current directory: /Users/kosukekimura/Documents/study/DIC/everydayrails-rspec-2017/vendor/bundle/ruby/2.6.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20190330-46957-1n47a3n/bindex

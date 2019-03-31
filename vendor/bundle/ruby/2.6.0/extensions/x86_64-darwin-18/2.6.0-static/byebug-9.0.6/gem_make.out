@@ -1,0 +1,19 @@
+current directory: /Users/kosukekimura/Documents/study/DIC/everydayrails-rspec-2017/vendor/bundle/ruby/2.6.0/gems/byebug-9.0.6/ext/byebug
+/Users/kosukekimura/.rbenv/versions/2.6.2/bin/ruby -I /Users/kosukekimura/.rbenv/versions/2.6.2/lib/ruby/2.6.0 -r ./siteconf20190330-46957-1oyljj8.rb extconf.rb
+creating Makefile
+
+current directory: /Users/kosukekimura/Documents/study/DIC/everydayrails-rspec-2017/vendor/bundle/ruby/2.6.0/gems/byebug-9.0.6/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/kosukekimura/Documents/study/DIC/everydayrails-rspec-2017/vendor/bundle/ruby/2.6.0/gems/byebug-9.0.6/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/kosukekimura/Documents/study/DIC/everydayrails-rspec-2017/vendor/bundle/ruby/2.6.0/gems/byebug-9.0.6/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.bundle ./.gem.20190330-46957-1rxcomu/byebug
